@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://activesworkout.github.io/build-muscle/sitemapx.xml
